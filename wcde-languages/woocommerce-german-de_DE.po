@@ -1,0 +1,247 @@
+# This German Language File: Copyright (C) 2012-2014 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the WooCommerce German (de_DE) Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer WooCommerce und WordPress sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-02-17 22:15:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: WooCommerce German (de_DE)\n"
+
+#: includes/wcde-settings-woocommerce.php:179
+msgid "Load included admin string swap functions?"
+msgstr "Die enthaltenen Adminbereich String-Swap-Funktionen laden?"
+
+#: includes/wcde-settings-woocommerce.php:180
+msgid "Also load the included string swap functions for the admin?"
+msgstr "Ebenso die enthaltenen String-Swap-Funktionen für den Adminbereich laden? (Betrifft gegenwärtig 'Produktbild') "
+
+#: includes/wcde-settings-woocommerce.php:184
+msgid "If not needed for the admin it's recommended to deactivate this checkbox to save (translation) loading performance."
+msgstr "Falls nicht benötigt, wird empfohlen dieses Kontrollkästchen zu deaktivieren, um Performance zu sparen."
+
+#: includes/wcde-admin-extras.php:91
+msgid "Translation Settings"
+msgstr "Übersetzungs-Einstellungen"
+
+#: includes/wcde-admin-extras.php:88
+msgid "Go to the %s settings page"
+msgstr "Zu den Einstellungen-Seite gehen - für %s &hellip;"
+
+#: includes/wcde-admin-extras.php:141
+msgctxt "Translators: for title attribute"
+msgid "Donate for Translations"
+msgstr "Spenden für die Pflege der deutschen Übersetzungen für WooCommerce"
+
+#: includes/wcde-admin-extras.php:141
+msgid "Donate for Translations"
+msgstr "Spenden für Übersetzungen"
+
+#: includes/wcde-admin-extras.php:372 includes/wcde-settings-woocommerce.php:88
+msgid "Important Legal Advise"
+msgstr "Wichtige Rechtshinweise"
+
+#: includes/wcde-admin-extras.php:706
+msgid "Plugin author of %s"
+msgstr "Plugin-Autor von %s"
+
+#: includes/wcde-admin-extras.php:733
+msgid "Actions"
+msgstr "Aktionen"
+
+#: includes/wcde-admin-extras.php:735
+msgid "Plugin Settings"
+msgstr "Plugin-Einstellungen"
+
+#: includes/wcde-admin-extras.php:739
+msgid "Support Forum"
+msgstr "Support-Forum"
+
+#: includes/wcde-admin-extras.php:855
+msgid "Important legal advise for %1$s plugin"
+msgstr "Wichtige Rechtshinweise für das Plugin %1$s"
+
+#: includes/wcde-admin-extras.php:855
+msgid "Please read the information %2$shere on translations%3$s and %4$shere on settings%3$s!"
+msgstr "Bitte lesen Sie weitere Informationen %2$shier zu den Übersetzungen%3$s und %4$shier zu den Einstellungen%3$s!"
+
+#: includes/wcde-admin-extras.php:855
+msgid "Thank You!"
+msgstr "Vielen Dank!"
+
+#: includes/wcde-admin-extras.php:861
+msgid "This message will only be shown once. Go to any other page/ screen here and it will disappear."
+msgstr "Dieser Hinweis wird nur einmalig angezeigt. Sobald Sie eine andere Seite hier im Adminbereich aufrufen, ist die Meldung weg."
+
+#: includes/wcde-settings-woocommerce.php:68
+msgid "German Translations"
+msgstr "Deutsche Übersetzungen"
+
+#: includes/wcde-settings-woocommerce.php:94
+msgid "Donate NOW!"
+msgstr "JETZT Spenden!"
+
+#: includes/wcde-settings-woocommerce.php:105
+msgid "Regarding translations and shop owners:"
+msgstr "Thema Übersetzungen &amp; Shop-Betreiber:"
+
+#: includes/wcde-settings-woocommerce.php:107
+msgid "Donate for the maintenance of the translations:"
+msgstr "Spenden für die weitere Pflege der Übersetzungen:"
+
+#: includes/wcde-settings-woocommerce.php:110
+msgid "Those are the plugin settings for %s."
+msgstr "Dies sind die Plugin-Einstellungen für %s."
+
+#: includes/wcde-settings-woocommerce.php:113
+msgid "Note: Settings are available after saving and reloading any admin page."
+msgstr "Hinweis: Die Einstellungen hier sind nach dem Speichern und dem Laden einer beliebigen Admin-Seite aktiv."
+
+#: includes/wcde-settings-woocommerce.php:120
+msgid "German Translation Options"
+msgstr "Optionen für die deutschen Übersetzungen"
+
+#: includes/wcde-settings-woocommerce.php:128
+msgid "Use German formal translations?"
+msgstr "Deutsche formelle Anrede (SIE) verwenden?"
+
+#: includes/wcde-settings-woocommerce.php:133
+msgid "Yes, I want formal language!"
+msgstr "JA, ich will formelle Sprache! (SIE-Anrede)"
+
+#: includes/wcde-settings-woocommerce.php:134
+msgid "No, I want informal language"
+msgstr "NEIN, ich will informelle Sprache! (DU-Anrede)"
+
+#: includes/wcde-settings-woocommerce.php:136
+msgid "Default is: formal language - we also recommend to use this language pack is it fits way better with most shopping situations. Otherwise informal translations will be loaded"
+msgstr "Der Standard ist: formelle Sprache - wir empfehlen auch den Einsatz dieser Sprachdatei, weil sie besser zu den meisten Shop-Situationen passt. Ansonsten werden die informellen Übersetzungen geladen."
+
+#: includes/wcde-settings-woocommerce.php:141
+msgid "Translation loading location"
+msgstr "Wo Übersetzungen laden?"
+
+#: includes/wcde-settings-woocommerce.php:142
+msgid "Decide where to load the translations: Global, or only on Frontend or only in the Admin Area?"
+msgstr "Entscheiden Sie, wo Übersetzungen geladen werden sollen: Global, oder nur in der Besucheransicht (Frontend) oder nur im Adminbereich?"
+
+#: includes/wcde-settings-woocommerce.php:148
+msgid "Both, on Frontend and Admin Area"
+msgstr "Beides, Besucheransicht und Adminbereich"
+
+#: includes/wcde-settings-woocommerce.php:149
+msgid "Only on Frontend"
+msgstr "Nur in der Besucheransicht"
+
+#: includes/wcde-settings-woocommerce.php:150
+msgid "Only on Admin Area"
+msgstr "Nur im Adminbereich"
+
+#: includes/wcde-settings-woocommerce.php:156
+msgid "Load included extensions's translations?"
+msgstr "Die Übersetzungen beigefügter Erweiterungen ebenfalls laden?"
+
+#: includes/wcde-settings-woocommerce.php:157
+msgid "Also load the translation files for the few packaged extension's translations?"
+msgstr "Dieses Plugin enthält für einige ausgewählte Erweiterungen (Extensions) ebenfalls deutsche Übersetzungen - sollen diese ebenfalls geladen werden? (Falls 'JA', dann nur pro aktiver Erweiterung!)"
+
+#: includes/wcde-settings-woocommerce.php:162
+msgid "If you have none of the currently %s in use, please deactivate this checkbox to save (translation) loading performance."
+msgstr "Falls Sie keine der aktuell %s aktiviert haben, deaktivieren Sie bitte dieses Kontrollkästchen, um Performance zu sparen."
+
+#: includes/wcde-settings-woocommerce.php:163
+msgid "supported extensions"
+msgstr "unterstützten Erweiterungen"
+
+#: includes/wcde-settings-woocommerce.php:169
+msgid "Load included string swap functions?"
+msgstr "Die enthaltenen String-Swap-Funktionen laden?"
+
+#: includes/wcde-settings-woocommerce.php:170
+msgid "Also load the included string swap functions?"
+msgstr "Ebenso die enthaltenen String-Swap-Funktionen laden? (Betrifft gegenwärtig den Bezahlvorgang)"
+
+#: includes/wcde-settings-woocommerce.php:174
+msgid "If using WooCommerce as product catalog it's recommended to deactivate this checkbox to save (translation) loading performance."
+msgstr "Falls WooCommerce nur als Produktkatalog (ohne Warenkorb) verwendet wird, wird empfohlen dieses Kontrollkästchen zu deaktivieren, um Performance zu sparen."
+
+#: uninstall.php:52
+msgid "You must be logged in to run this script."
+msgstr "Sie müssen angemeldet sein, um dieses Skript ausführen zu können."
+
+#: uninstall.php:62
+msgid "You do not have permission to run this script."
+msgstr "Sie haben keine Berechtigung, um dieses Skript ausführen zu können!"
+
+#: includes/wcde-admin-extras.php:709
+msgid "Social:"
+msgstr "Vernetzen:"
+
+#: includes/wcde-admin-extras.php:137 includes/wcde-admin-extras.php:666
+msgid "Code Snippets for Customization"
+msgstr "Codeschnipsel für Anpassungen/ Begriffsänderungen"
+
+#: includes/wcde-admin-extras.php:137 includes/wcde-admin-extras.php:666
+msgid "Code Snippets"
+msgstr "Codeschnipsel"
+
+msgid "WooCommerce German (de_DE)"
+msgstr "WooCommerce Deutsch (de_DE)"
+
+msgid "http://genesisthemes.de/en/wp-plugins/woocommerce-de/"
+msgstr "http://genesisthemes.de/plugins/woocommerce-de/"
+
+msgid "This plugin extends the WooCommerce shop plugin with complete German language packs - formal and informal. - WooCommerce endlich komplett auf deutsch!"
+msgstr "Dieses Plugin erweitert das WooCommerce Shop-Plugin mit komplett übersetzten deutschen Sprachdateien - in SIE- und DU-Version (formell/ informell)."
+
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+#: includes/wcde-admin-extras.php:133 includes/wcde-admin-extras.php:662
+msgid "FAQ"
+msgstr "FAQ - Häufige Fragen"
+
+#: includes/wcde-admin-extras.php:135 includes/wcde-admin-extras.php:664
+msgid "Support"
+msgstr "Support"
+
+#: includes/wcde-admin-extras.php:670 includes/wcde-admin-extras.php:737
+msgid "Donate"
+msgstr "Spenden"
+
+#: includes/wcde-admin-extras.php:139 includes/wcde-admin-extras.php:668
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: includes/wcde-admin-extras.php:286
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/wcde-admin-extras.php:626
+msgid "Other, recommended WooCommerce plugins"
+msgstr "Weitere, empfohlene WooCommerce Plugins"
+
+#: includes/wcde-admin-extras.php:605
+msgid "More premium plugins/extensions at CodeCanyon Marketplace"
+msgstr "Mehr Plugins/ Premium-Erweiterungen beim CodeCanyon Marktplatz"
+
+#: includes/wcde-admin-extras.php:606
+msgid "More free plugins/extensions at WordPress.org"
+msgstr "Mehr freie Plugins/ Erweiterungen bei WordPress.org"
+
+#: includes/wcde-admin-extras.php:659
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links:"
+
+#: includes/wcde-admin-extras.php:660
+msgid "Plugin Website"
+msgstr "Plugin-Webseite"

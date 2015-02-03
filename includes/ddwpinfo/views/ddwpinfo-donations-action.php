@@ -1,0 +1,75 @@
+<?php
+/**
+ * View/ Markup for "Donations Action" area.
+ *
+ * @package    DDWPinfo Library
+ * @subpackage Admin Views
+ * @author     David Decker - DECKERWEB
+ * @copyright  Copyright (c) 2013-2014, David Decker - DECKERWEB
+ * @license    http://www.opensource.org/licenses/gpl-license.php GPL-2.0+
+ * @link       http://wpautobahn.com/
+ * @link       http://deckerweb.de/twitter
+ *
+ * @since      1.0.0
+ */
+
+/**
+ * Exit if accessed directly.
+ *
+ * @since 1.0.0
+ */
+if ( ! defined( 'WPINC' ) ) {
+	exit( 'Sorry, you are not allowed to access this file directly.' );
+}
+
+
+/**
+ * Helper function.
+ *
+ * @since 1.0.0
+ */
+function ddwpinfo_donations_action() {
+
+	/** Begin markup: */
+	?>
+
+		<div id="box_donations_action" class="ddwpinfo-box-content">
+
+			<h3>JETZT Spenden!</h3>
+
+			<p>
+				<?php ddwpinfo_donations_button(); ?>
+			</p>
+
+			<p>
+				<strong>Welcher Betrag?</strong> &ndash; So viel Sie wollen! Jeder Euro zählt :)
+			</p>
+			<p>
+				Meine Empfehlung: ab 20 Euro aufwärts - Vielen Dank!
+			</p>
+
+			<p>
+				<strong>Beispiele:</strong>
+				<br />WordPress (4.0): ca. 4.700 Strings
+				<br />WooCommerce (2.2+): ca. 3.300 Strings
+				<br />Gravity Forms (1.8+): ca. 2.100 Strings
+				<br />Jetpack (3.1+): ca. 1.600 Strings
+				<br />BuddyPress (2.0+): ca. 1.500 Strings
+				<br />bbPress (2.5+): ca. 1.100 Strings
+			</p>
+
+			<p>
+				<strong><em>Danke für Ihre Unterstützung!</em></strong>
+				<br /><em>~David Decker, Übersetzer</em>
+			</p>
+			
+			<p>
+				<?php ddwpinfo_donations_button(); ?>
+			</p>
+
+		</div>
+
+	<?php
+	/** ^ End "Donations" box content markup */
+
+}  // end of function ddwpinfo_donations_action
