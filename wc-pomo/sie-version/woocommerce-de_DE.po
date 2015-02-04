@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WooCommerce 2.2.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-02-03 21:35+0100\n"
+"PO-Revision-Date: 2015-02-04 10:30+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8088,7 +8088,7 @@ msgstr "Ein Benutzerkonto erstellen?"
 
 #: templates/checkout/form-billing.php:49
 msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
-msgstr "Erstellen Sie ein Benutzerkonto, indem Sie die entsprechenden Informationen unten eingeben. Wenn Sie ein wiederkehrender Kunde sind, melden Sie sich bitte <a href=\"/wp-login.php\">hier</a> an."
+msgstr "Erstellen Sie ein Benutzerkonto, indem Sie die entsprechenden Informationen unten eingeben."
 
 #: templates/checkout/form-checkout.php:18
 msgid "You must be logged in to checkout."
@@ -8108,7 +8108,7 @@ msgstr "Klicken Sie hier, um Ihren Gutscheincode einzugeben"
 
 #: templates/checkout/form-login.php:14
 msgid "Returning customer?"
-msgstr "Wiederkehrender Kunde?"
+msgstr "Sie sind medONLINE.at User?"
 
 #: templates/checkout/form-login.php:15
 msgid "Click here to login"
